@@ -1,5 +1,8 @@
 # Open Source Projects
 ## 1、Continual Learning
+- <a name="todo"></a> Leveraging Textual Semantic Guidance for Few-Shot Class-Incremental Learning (**TOMM 2026**)  [[paper](https://dl.acm.org/doi/epdf/10.1145/3828664)][[code](https://github.com/Xyuqiao/LEAD-for-FSCIL)] <br>
+  <sub><b>*Keywords:*</b> Few-shot class-incremental learning, Vision-language models, Classification</sub>
+
 - <a name="todo"></a> Continual Learning with Dynamic Domain Shifts (**ICME 2026**)  [[paper]()][[code](https://github.com/Xyuqiao/CL-DDS)] <br>
   <sub><b>*Keywords:*</b> Online Continual Learning, Dynamic Domainshifts, Benchmark</sub>
   
