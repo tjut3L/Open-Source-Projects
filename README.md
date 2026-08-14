@@ -17,7 +17,7 @@
 
 ## 2、Adversarial Robustness
 - <a name="todo"></a> Complementary Text-Guided Attention for Zero-Shot Adversarial Robustness (**TPAMI 2026**)  [[paper](https://arxiv.org/html/2603.18598v1)][[code](https://github.com/zhyblue424/TGA-ZSR)]<br>
-  <sub><b>*Keywords:*</b> Zero-shot Adversarial Robustness, VisionLanguage Models, Complementary Text-Guided Attention</sub>
+  <sub><b>*Keywords:*</b> Zero-shot Adversarial Robustness, Vision-Language Models, Complementary Text-Guided Attention</sub>
   
 - <a name="todo"></a> Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models (**NeurIPS 2024**)  [[paper](https://arxiv.org/abs/2410.21802)][[code](https://github.com/zhyblue424/TGA-ZSR)]<br>
-  <sub><b>*Keywords:*</b> Zero-shot Adversarial Robustness, VisionLanguage Models, Text-Guided Attention</sub>
+  <sub><b>*Keywords:*</b> Zero-shot Adversarial Robustness, Vision-Language Models, Text-Guided Attention</sub>
