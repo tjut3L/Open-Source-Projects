@@ -1,6 +1,6 @@
 # Open Source Projects
 ## 1、Continual Learning
-- <a name="todo"></a> Continual Learning with Dynamic Domain Shifts (**ICME 2026**)  [[Coming soon...]()] <br>
+- <a name="todo"></a> Continual Learning with Dynamic Domain Shifts (**ICME 2026**)  [[paper]()][[code](https://github.com/Xyuqiao/CL-DDS)] <br>
   <sub><b>*Keywords:*</b> Online Continual Learning, Dynamic Domainshifts, Benchmark</sub>
   
 - <a name="todo"></a> Leveraging Multiple Deep Experts for Online Class-incremental Learning (**ICME 2025**)  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11209783)][[code](https://github.com/untitledunmastered1998/MDE-OIL)]<br>
